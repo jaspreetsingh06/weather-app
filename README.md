@@ -4,6 +4,9 @@ A clean and responsive weather app built with **React** and **Tailwind CSS**. Se
 
 ![Weather App](./screenshots/weather.png)
 
+## 🔗 Live Demo
+[https://weather-app0-omega.vercel.app/](https://weather-app0-omega.vercel.app/)
+
 ## ✨ Features
 
 - Search weather by city name (Enter key or Search button)
@@ -75,7 +78,6 @@ weather-app/
 - Auto-load weather on app start
 - Change background based on weather condition
 - Weather icons and 5-day forecast
-- Deploy on Vercel
 
 ## 👤 Author
 
